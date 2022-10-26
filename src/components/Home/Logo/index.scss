@@ -18,7 +18,7 @@
     }
 
     .solid-logo {
-        position: absolute;
+        position: sticky;
         top: auto;
         right: auto;
         bottom: auto;
@@ -26,7 +26,7 @@
         margin: auto;
         width: 100%;
         opacity: 0;
-        transform: rotateZ(30deg) !important;
+        transform: rotateZ(25deg) !important;
         z-index: 1;
     }
 }
