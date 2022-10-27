@@ -21,6 +21,15 @@ const Portfolio = () => {
                                 className="porfolio-image"
                                 alt="portfolio"
                                 />
+                                <div className="content">
+                                    <p className="title">{port.title.portfolio}</p>
+                                    <h4 className="description">{port.description.portfolio}</h4>
+                                    <button
+                                        className="btn"
+                                        onClick={() => window.open(port.url)}
+                                    >View Code</button>
+                                </div>
+
                             </div>
                         )
                     })
