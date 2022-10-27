@@ -16,7 +16,7 @@
     bottom: 0;
     left: 120px;
     font-size: 18px;
-    font-family: 'La Belle Aurore';
+    font-family: 'La Belle Aurore', cursive;
 }
 
 .bottom-tag-html {
@@ -38,6 +38,7 @@
     animation-delay: 1s;
 }
 
+
 .container.contact-page,
 .container.about-page,
 .container.portfolio-page {
@@ -50,7 +51,7 @@
         margin-top: 0;
         position: relative;
         margin-bottom: 40px;
-        left: -10px;
+        left: 10px;
 
         &:before {
             content: '<h1>';
