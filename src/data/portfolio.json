@@ -7,16 +7,22 @@
             "url": "https://github.com/anthowest/ConnectCare"
         },
         {
-            "cover": "/portfolio/ConnectCare.png",
-            "title": "ConnectCare",
-            "description": "Python, Django, PostgreSQL, Bootstrap, Bulma",
-            "url": "https://github.com/anthowest/ConnectCare"
+            "cover": "/portfolio/apod.png",
+            "title": "Astronomy Photo of the Day",
+            "description": "React.js, Express.js, HTML, CSS, Netlify, Postman",
+            "url": "https://github.com/anthowest/apod"
         },
         {
-            "cover": "/portfolio/ConnectCare.png",
-            "title": "ConnectCare",
-            "description": "Python, Django, PostgreSQL, Bootstrap, Bulma",
-            "url": "https://github.com/anthowest/ConnectCare"
+            "cover": "/portfolio/Ranter.png",
+            "title": "Ranter",
+            "description": "Node.js, Express.js, MongoDB, HTML, CSS, JS",
+            "url": "https://github.com/anthowest/Ranter"
+        },
+        {
+            "cover": "/portfolio/Aliengotchi.png",
+            "title": "Aliengotchi",
+            "description": "HTML, CSS, JS",
+            "url": "https://github.com/anthowest/project-1-aliengotchi"
         }
     ]
 }
