@@ -21,9 +21,9 @@ const About = () => {
                         idx={15}
                     />
                 </h1>
-                <p>I'm very ambitious front-end developer.</p>
-                <p>I'm very confident</p>
-                <p>Confident</p>
+                <p>I am a Software Engineer who is skilled in both the front-end and back-end of web applications. As an outgoing and supportive team player, I am committed to developing solutions in collaboration with my team to achieve the highest standard of excellence. I’m an introspective critical-thinker with an eye for opportunities to learn new trends and technologies to further improve my team.</p>
+
+                <p>After completing my Bachelor degree in business administration from the University of North Texas, I decided to put my outgoing personality and analytical-thinking skills to work as an Operations Director. Few years later, I was promoted to a Project Manager implementing software applications for a healthcare organization. It was in this role that I sharpened my communication skills in client meetings, increased my tech knowledge, and streamlined processes by implementing and developing software applications; increasing revenue by $5 million in my first year. Working in operations and software has given me an invaluable foundation, and I further added to it by getting my certification in software engineering from General Assembly. Now I’m ready to move forward with being part of even larger solutions as an engineer.</p>
             </div>
 
             <div className='stage-cube-cont'>
