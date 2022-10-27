@@ -1,0 +1,22 @@
+{
+    "portfolio": [
+        {
+            "cover": "/portfolio/ConnectCare.png",
+            "title": "ConnectCare",
+            "description": "Python, Django, PostgreSQL, Bootstrap, Bulma",
+            "url": "https://github.com/anthowest/ConnectCare"
+        },
+        {
+            "cover": "/portfolio/ConnectCare.png",
+            "title": "ConnectCare",
+            "description": "Python, Django, PostgreSQL, Bootstrap, Bulma",
+            "url": "https://github.com/anthowest/ConnectCare"
+        },
+        {
+            "cover": "/portfolio/ConnectCare.png",
+            "title": "ConnectCare",
+            "description": "Python, Django, PostgreSQL, Bootstrap, Bulma",
+            "url": "https://github.com/anthowest/ConnectCare"
+        }
+    ]
+}
