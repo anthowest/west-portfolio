@@ -1,16 +1,22 @@
 {
     "portfolio": [
         {
-            "cover": "/portfolio/ConnectCare.png",
+            "cover": "/portfolio/connectcare-2.png",
             "title": "ConnectCare",
             "description": "Python, Django, PostgreSQL, Bootstrap, Bulma",
             "url": "https://github.com/anthowest/ConnectCare"
         },
         {
-            "cover": "/portfolio/apod.png",
+            "cover": "/portfolio/apod-2.png",
             "title": "Astronomy Photo of the Day",
             "description": "React.js, Express.js, HTML, CSS, Netlify, Postman",
             "url": "https://github.com/anthowest/apod"
+        },
+        {
+            "cover": "/portfolio/dog-2.png",
+            "title": "Dog Registry",
+            "description": "Python, Django, PostgreSQL, Bootstrap, Bulma",
+            "url": "https://github.com/anthowest/dog-registry"
         },
         {
             "cover": "/portfolio/Ranter.png",
@@ -24,5 +30,6 @@
             "description": "HTML, CSS, JS",
             "url": "https://github.com/anthowest/project-1-aliengotchi"
         }
+        
     ]
 }

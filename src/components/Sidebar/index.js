@@ -4,7 +4,7 @@ import LogoS from '../../assets/images/logo-a.png'
 import LogoSubtitle from '../../assets/images/logo_sub.png'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faHome, faUser, faEnvelope, faSuitcase } from '@fortawesome/free-solid-svg-icons'
-import { faGithub, faLinkedin } from '@fortawesome/free-brands-svg-icons'
+import { faGithub, faLinkedin, faSpotify } from '@fortawesome/free-brands-svg-icons'
 
 const Sidebar = () => (
     <div className='nav-bar'>
@@ -62,6 +62,15 @@ const Sidebar = () => (
                 href='https://github.com/anthowest'
                 >
                     <FontAwesomeIcon icon={faGithub} color="#4d4d4e" />
+                </a>
+            </li>
+            <li>
+                <a 
+                target="_blank" 
+                rel='noreferrer' 
+                href='https://open.spotify.com/user/124467801?si=300382caad604b09'
+                >
+                    <FontAwesomeIcon icon={faSpotify} color="#4d4d4e" />
                 </a>
             </li>
             </ul>
