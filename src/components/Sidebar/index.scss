@@ -156,8 +156,10 @@
 
             a {
                 display: flex;
-                justify-content: center;
+                justify-content: start;
                 align-items: center;
+                padding-left: 20px;
+                padding-top: 20px;
             }
     
             a:after {
