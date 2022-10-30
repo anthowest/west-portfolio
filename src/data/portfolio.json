@@ -4,31 +4,36 @@
             "cover": "/portfolio/connectcare-2.png",
             "title": "ConnectCare",
             "description": "Python, Django, PostgreSQL, Bootstrap, Bulma",
-            "url": "https://github.com/anthowest/ConnectCare"
+            "url": "https://github.com/anthowest/ConnectCare",
+            "url2": "https://connectcare-west.herokuapp.com/"
         },
         {
             "cover": "/portfolio/apod-2.png",
             "title": "Astronomy Photo of the Day",
             "description": "React.js, Express.js, HTML, CSS, Netlify, Postman",
-            "url": "https://github.com/anthowest/apod"
+            "url": "https://github.com/anthowest/apod",
+            "url2": "https://nasa-apod-astronomy.herokuapp.com/"
         },
         {
             "cover": "/portfolio/dog-2.png",
             "title": "Dog Registry",
             "description": "Python, Django, PostgreSQL, Bootstrap, Bulma",
-            "url": "https://github.com/anthowest/dog-registry"
+            "url": "https://github.com/anthowest/dog-registry",
+            "url2": "https://dog-registry.herokuapp.com/"
         },
         {
             "cover": "/portfolio/Ranter.png",
             "title": "Ranter",
             "description": "Node.js, Express.js, MongoDB, HTML, CSS, JS",
-            "url": "https://github.com/anthowest/Ranter"
+            "url": "https://github.com/anthowest/Ranter",
+            "url2": "https://ranter-demo.herokuapp.com/login"
         },
         {
             "cover": "/portfolio/Aliengotchi.png",
             "title": "Aliengotchi",
             "description": "HTML, CSS, JS",
-            "url": "https://github.com/anthowest/project-1-aliengotchi"
+            "url": "https://github.com/anthowest/project-1-aliengotchi",
+            "url2": "https://anthowest.github.io/project-1-aliengotchi/"
         }
         
     ]
