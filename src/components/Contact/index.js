@@ -4,6 +4,9 @@ import { useRef, useState } from 'react'
 import './index.scss'
 import emailjs from '@emailjs/browser'
 import { MapContainer, Marker, TileLayer } from 'react-leaflet'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faHome, faUser, faEnvelope, faSuitcase } from '@fortawesome/free-solid-svg-icons'
+import { faGithub, faLinkedin, faSpotify } from '@fortawesome/free-brands-svg-icons'
 
 const Contact = () => {
     const [letterClass, setLetterClass] = useState('text-animate')
@@ -77,7 +80,7 @@ const Contact = () => {
                     USA 
                     <br />
                     <span>anthowest14@gmail.com</span>
-                </div>
+                </div> 
                 <div className='map-wrap'>
                     <MapContainer center={[32.7767, -96.7970]} zoom={13}>
                         <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
