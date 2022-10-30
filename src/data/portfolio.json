@@ -10,7 +10,7 @@
         {
             "cover": "/portfolio/apod-2.png",
             "title": "Astronomy Photo of the Day",
-            "description": "React.js, Express.js, HTML, CSS, Netlify, Postman",
+            "description": "React.js, Node.js, HTML, CSS, Netlify, Postman",
             "url": "https://github.com/anthowest/apod",
             "url2": "https://nasa-apod-astronomy.herokuapp.com/"
         },
@@ -22,14 +22,14 @@
             "url2": "https://dog-registry.herokuapp.com/"
         },
         {
-            "cover": "/portfolio/Ranter.png",
+            "cover": "/portfolio/Ranter2.png",
             "title": "Ranter",
             "description": "Node.js, Express.js, MongoDB, HTML, CSS, JS",
             "url": "https://github.com/anthowest/Ranter",
             "url2": "https://ranter-demo.herokuapp.com/login"
         },
         {
-            "cover": "/portfolio/Aliengotchi.png",
+            "cover": "/portfolio/alien2.png",
             "title": "Aliengotchi",
             "description": "HTML, CSS, JS",
             "url": "https://github.com/anthowest/project-1-aliengotchi",
