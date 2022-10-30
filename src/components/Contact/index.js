@@ -50,6 +50,20 @@ const Contact = () => {
                     <p>
                         I am interested in career and freelance opportunities - especially ambitious or large projects. However, if you have other requests or questions, don't hesitate to contact me using the form below.
                     </p>
+                    <a 
+                        target="_blank" 
+                        rel='noreferrer' 
+                        href='https://www.linkedin.com/in/anthonypwest/'
+                        >
+                        <FontAwesomeIcon icon={faLinkedin} color="#ffd700" />
+                    </a>
+                    <a 
+                        target="_blank" 
+                        rel='noreferrer' 
+                        href='https://github.com/anthowest'
+                        >
+                        <FontAwesomeIcon icon={faGithub} color="#ffd700" />
+                    </a>
                     <div className='contact-form'>
                         <form ref={refForm} onSubmit={sendEmail}>
                             <ul>
