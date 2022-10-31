@@ -5,13 +5,15 @@ import AnimatedLetters from '../AnimatedLetters'
 import LogoTitle from '../../assets/images/logo-a.png'
 import Logo from './Logo'
 import './index.scss'
+import DownloadLink from 'react-download-link'
+
 
 const Home = () => {
     const [letterClass, setLetterClass] = useState('text-animate')
 
     const nameArray = ['n', 't', 'h', 'o', 'n', 'y']
     const jobArray = [
-        's',
+        'S',
         'o',
         'f',
         't',
@@ -20,7 +22,7 @@ const Home = () => {
         'r',
         'e',
         ' ',
-        'e',
+        'E',
         'n',
         'g',
         'i',
@@ -59,9 +61,19 @@ const Home = () => {
                 />
                 </h1>
                 <h2>Software Engineer / Entrepreneur</h2>
-                <Link to="/contact" className='flat-button'>
+                <Link 
+                    to="/contact" 
+                    className='flat-button'>
                     CONTACT ME
                 </Link>
+                <a
+                href="Anthony West Resume_Portfolio.pdf"
+                target="_blank"
+                download
+                className='flat-button'
+                >
+                DOWNLOAD RESUME
+                </a>
                 {/* <Logo /> */}
             </div>
 
