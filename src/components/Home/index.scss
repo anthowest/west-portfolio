@@ -66,8 +66,10 @@
         font-family: sans-serif;
         text-decoration: none;
         padding: 10px 18px;
-        border: 1px solid #ffd700;
+        border: 2px solid #ffd700;
+        border-radius: 4px;
         margin-top: 25px;
+        margin-right: 10px;
         float: left;
         animation: fadeInAnimation 1s 1.8s backwards;
         white-space: nowrap;
