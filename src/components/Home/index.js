@@ -65,7 +65,7 @@ const Home = () => {
                     to="/contact" 
                     className='flat-button'>
                     CONTACT ME
-                </Link>
+                </Link> 
                 <a
                 href="Anthony West Resume_Portfolio.pdf"
                 target="_blank"

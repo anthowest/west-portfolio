@@ -9,6 +9,15 @@
     overflow: hidden;
 }
 
+.skills {
+    font-size: 25px;
+    color: #ffd700;
+    display: inline;
+    gap: 10px;
+    line-height: 16px;
+    
+}
+
 .cubespinner {
     animation-name: spincube;
     animation-timing-function: ease-in-out;
